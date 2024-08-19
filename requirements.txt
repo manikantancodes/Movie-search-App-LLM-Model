@@ -1,5 +1,6 @@
-streamlit
-transformers
-faiss-cpu
-sentence-transformers
-pandas
+pandas==1.5.3
+PyPDF2==3.0.1
+langchain==0.0.168
+faiss-cpu==1.7.3
+openai==0.27.8
+streamlit==1.25.0
